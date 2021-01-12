@@ -1,0 +1,6 @@
+# cd..
+# cd /
+# exit
+# pa_autoconfigure_django.py --python=3.8 https://github.com/SenneVerschooris/my-first-blog.git --nuke
+
+# createsuperuser
